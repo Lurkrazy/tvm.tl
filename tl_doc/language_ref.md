@@ -1,4 +1,15 @@
-# TVM.TL language reference
+# TVM.TL Documentation
+
+## Table of Contents
+
+- [Language Reference](language_ref.md) - TVM.TL language constructs and syntax
+- [Cost Model Documentation](cost_model.md) - Comprehensive guide to the TL cost model
+- [Cost Model Theory](cost_model_theory.md) - Mathematical foundations and theoretical background  
+- [Cost Model Implementation Guide](cost_model_implementation.md) - Developer guide for extending the cost model
+
+---
+
+# TVM.TL Language Reference
 
 ## T.Kernel
 args: the grid size (0-3 dimension) and the num_threads.
